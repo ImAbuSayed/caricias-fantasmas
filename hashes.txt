@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caricias fantasmas
+
+This log tracks the cryptographic history and versioning for the song **Caricias fantasmas** (caricias-fantasmas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T05:53:28.789493 | `v1` | `a30b3580dd2a5cb5a3b14c0b91919c66cfe1c91e5f7300d19cbda32a283573b7` | `a907ec5186ae552025094109b17e7e58244397d29882d28f631fb80844a9a7f2` | `2026-06-18_caricias-fantasmas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

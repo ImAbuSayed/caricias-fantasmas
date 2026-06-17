@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-fantasmas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Caricias fantasmas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-fantasmas/) |
+| **Get License** | [Commercial Licensing for Caricias fantasmas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-fantasmas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a30b3580dd2a5cb5a3b14c0b91919c66cfe1c91e5f7300d19cbda32a283573b7` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
