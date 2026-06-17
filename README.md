@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-fantasmas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Caricias fantasmas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-fantasmas/) |
+| **Get License** | [Secure Licensing Rights for Caricias fantasmas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-fantasmas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bebé, siento tu calor aunque no estás aquí
+> Tus caricias fantasmas no me dejan dormir
+> Un aroma a Chanel que se quedó en mi cama
+> Es la medianoche y mi cuerpo te reclama
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
